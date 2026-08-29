@@ -1,4 +1,3 @@
-# P-L-Report-Excel-Project
 # P&L Report – Excel Project
 
 An end-to-end P&L and Sales Performance Reporting project created in Excel while learning advanced Excel tools and techniques.
@@ -62,11 +61,12 @@ It was created as part of my **Excel learning journey** and was one of my first 
 
 ## 📁 Files
 
-- `sales_report.xlsx` – Main Excel project with Customer Net Sales Performance and Market Performance vs Target Analysis.
-- 
-- `Customer Performance Report` – Customer sales analysis
-- `Market Performance vs Target` – Market and target analysis
-- Screenshots – Report previews
+- sales_report.xlsx – Excel file with Customer Net Sales Performance and Market Performance vs Target Analysis.
+- sales_report_P&L.xlsx - Excel file with P & L yearly and monthly reports.
+- Customer Performance Report – Customer sales analysis
+- Market Performance vs Target – Market and target analysis
+- P & L Monthly report.pdf - Monthly analysis of Net Sales, COGS , Gross Margin preview.
+- P & L year report.pdf - Year wise analysis of Net Sales, COGS , Gross Margin preview.
 
 > This is a learning project created for practice and skill development.
 
